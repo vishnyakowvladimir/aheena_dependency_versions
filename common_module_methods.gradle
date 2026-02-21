@@ -92,6 +92,7 @@ ext {
             implementation androidXComposeMaterial3WithVersion
             implementation(platform(androidXComposePlatform))
             implementation(androidXNavigation)
+            implementation(androidXConstraintLayoutCompose)
             implementation(coil)
             debugImplementation(androidXComposeUiWithVersionsDebug)
         }

@@ -64,6 +64,10 @@ ext {
             "androidx.navigation:navigation-compose:$androidXNavigationComposeVersion",
     ]
 
+    androidXConstraintLayoutCompose = [
+            "androidx.constraintlayout:constraintlayout-compose:$androidXConstraintLayoutComposeVersion",
+    ]
+
     coil = [
             "io.coil-kt:coil-compose:$coilVersion",
     ]

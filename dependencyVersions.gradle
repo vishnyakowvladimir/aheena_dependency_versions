@@ -21,6 +21,7 @@ ext {
     androidXNavigationComposeVersion = "2.8.6"
     androidXComposeBomVersion = "2024.09.03"
     androidXComposeAndroidVersion = "1.7.7"
+    androidXConstraintLayoutComposeVersion = "1.1.0"
     coilVersion = "2.7.0"
     kotlinCollectionImmutableVersion = "0.3.7"
     kotlinXSerializationJsonVersion = "1.6.3"
